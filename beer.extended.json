@@ -1,0 +1,39 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "adapools_org",
+            "telegram_handle": "adapools_ops",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Company Name",
+            "addr": "Street, Number",
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "...",
+            "server": "2 google PC 16GB",
+            "company": "none"
+        }
+    },
+    "my-pool-ids": {
+        "0": "3691ace29ecad8e937fdf3a71674e01581118c6b488a2b507b930f8e"
+    },
+    "when-satured-then-recommend": {
+        "0": "3691ace29ecad8e937fdf3a71674e01581118c6b488a2b507b930f8e",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "telegram-admin-handle": {
+        "0": "your_tg_handle"
+    }
+}
